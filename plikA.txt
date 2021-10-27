@@ -1,1 +1,1 @@
-To jest zawartosc A + ZMIANA + zmiana w test
+To jest zawartosc A + ZMIANA + zmiana w test + PLNE NAPRAWY cw. "stash"
