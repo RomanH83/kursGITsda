@@ -1,1 +1,1 @@
-To jest zawartosc A
+To jest zawartosc A + ZMIANA
