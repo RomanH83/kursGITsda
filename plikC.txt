@@ -1,1 +1,1 @@
-To jest zawartosc C
+To jest zawartosc C + zmiana MASTER
