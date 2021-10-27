@@ -1,1 +1,1 @@
-funkcjonalnosc A
+funkcjonalnosc A + zmiana
